@@ -21,9 +21,9 @@ K.set_image_dim_ordering('th')
 image_rows, image_columns, image_depth = 64, 64, 96
 
 training_list = []
-angrypath = '../../workspace/micro-expression/data/casme/angry/'
-happypath = '../../workspace/micro-expression/data/casme/happy/'
-disgustpath = '../../workspace/micro-expression/data/casme/disgust/'
+angrypath = '../../workspace/micro-expression/data/angry/'
+happypath = '../../workspace/micro-expression/data/happy/'
+disgustpath = '../../workspace/micro-expression/data/disgust/'
 
 directorylisting = os.listdir(angrypath)
 for video in directorylisting:
