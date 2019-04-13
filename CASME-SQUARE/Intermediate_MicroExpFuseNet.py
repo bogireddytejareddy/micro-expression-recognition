@@ -52,9 +52,9 @@ def annotate_landmarks(img, landmarks, font_scale = 0.4):
 	return img
 
 
-angrypath = '../../workspace/micro-expression/data/casme/angry/'
-happypath = '../../workspace/micro-expression/data/casme/happy/'
-disgustpath = '../../workspace/micro-expression/data/casme/disgust/'
+angrypath = '../../workspace/micro-expression/data/angry/'
+happypath = '../../workspace/micro-expression/data/happy/'
+disgustpath = '../../workspace/micro-expression/data/disgust/'
 
 i, j, k = 0, 0, 0
 
