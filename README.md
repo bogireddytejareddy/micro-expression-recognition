@@ -15,3 +15,6 @@
 |   MicroExpSTCNN     |   Proposed            |   DLM          |      87.80%     |   68.75%   |
 |  Intermediate MicroExpFuseNet     |  Proposed             |   DLM          |    83.25%       |   54.77%   |
 |  Late MicroExpFuseNet   |    Proposed           |    DLM         |    79.31%       |  64.82%    |
+
+## Our paper has been accepted to IJCNN 2019
+## arxiv link : https://arxiv.org/abs/1904.01390
