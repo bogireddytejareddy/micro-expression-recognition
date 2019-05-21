@@ -18,3 +18,6 @@
 
 ## Our paper has been accepted to IJCNN 2019
 ## arxiv link : https://arxiv.org/abs/1904.01390
+
+## Note
+# Please use python 2.7
