@@ -18,6 +18,10 @@ Facial expression recognition in videos is an active area of research in compute
 |  Intermediate MicroExpFuseNet     |  Proposed             |   DLM          |    83.25%       |   54.77%   |
 |  Late MicroExpFuseNet   |    Proposed           |    DLM         |    79.31%       |  64.82%    |
 
+## Validation Data and Weights
+ ### [CASME-SQUARE](https://drive.google.com/file/d/1v5v_W-N-CslBgiwNdww8_QF5TAWgjE_c/view?usp=sharing)
+ ### [SMIC](https://drive.google.com/file/d/1hotsk5TSnSxuLHqHC990wMYox1L1Vj6Q/view?usp=sharing)
+
 ## Citation
 
 If you use this code in your research, we would appreciate a citation:
