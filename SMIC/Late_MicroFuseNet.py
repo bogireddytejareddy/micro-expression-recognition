@@ -233,8 +233,8 @@ model.load_weights('weights_late_microexpfusenet/weights-improvement-22-0.83.hdf
 """
 
 # Spliting the dataset into training and validation sets
-etrain_images, evalidation_images, etrain_labels, evalidation_labels =  train_test_split(etraining_set, eye_traininglabels, test_size=0.2)
-ntrain_images, nvalidation_images, ntrain_labels, nvalidation_labels =  train_test_split(ntraining_set, nose_traininglabels, test_size=0.2)
+etrain_images, evalidation_images, etrain_labels, evalidation_labels =  train_test_split(etraining_set, eye_traininglabels, test_size=0.2, random_state=42)
+ntrain_images, nvalidation_images, ntrain_labels, nvalidation_labels =  train_test_split(ntraining_set, nose_traininglabels, test_size=0.2, random_state=42)
 
 # Save validation set in a numpy array
 numpy.save('numpy_validation_datasets/late_microexpfusenet_eval_images.npy', evalidation_images)
