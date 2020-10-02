@@ -20,7 +20,7 @@ Facial expression recognition in videos is an active area of research in compute
 
 ## Validation Data and Weights
  ### [CASME-SQUARE](https://drive.google.com/drive/folders/1pGoEgRVekaeRvj0pt35HF_yqlgwnkCiQ?usp=sharing)
- ### [SMIC](https://drive.google.com/drive/folders/1pGoEgRVekaeRvj0pt35HF_yqlgwnkCiQ?usp=sharing)
+ ### [SMIC](https://drive.google.com/drive/folders/1aOPBE2Ltj7-cY57fADucX8n3pMIcMg6K?usp=sharing)
 
 ## Citation
 
